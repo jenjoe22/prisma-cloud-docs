@@ -12,6 +12,9 @@ Visualize and share the metrics that matter most to you and your team. Learn mor
 |*Dashboard*
 |*Description*
 
+|Code to Cloud
+|TBD
+
 |Application Security
 |Provides greater visibility into repositories, secrets, IaC templates and package licenses with errors. Additional graphs providing a contextual visualization of errors and their associated policies, and vulnerabilities are also included.
 
@@ -21,17 +24,21 @@ Visualize and share the metrics that matter most to you and your team. Learn mor
 |Command Center
 |Provides you with a unified view of the top cloud security incidents and risks uncovered across the assets monitored by Prisma™ Cloud. It provides security teams with an at a glance picture of the highest priority incidents and risks in your cloud environments.
 
-|Governance & Compliance
-|Provides a collection of dashboards surfacing information and trends on the status of Alerts, Compliance and Policies in your Prisma Cloud instance.
+//Governance & Compliance
+//Provides a collection of dashboards surfacing information and trends on the status of Alerts, Compliance and Policies in your Prisma Cloud instance.
 
-|WaaS
-|Provides greater visibility into tracked vulnerabilities in APIs and Workloads, including APIs with security findings and Workloads with untracked blind spots.
+//WaaS
+//Provides greater visibility into tracked vulnerabilities in APIs and Workloads, including APIs with security findings and Workloads with untracked blind spots.
 
 |Vulnerabilities
 |Tracks vulnerability impact by stage and remediation trends along with dashboards that we now currently cover under the Vulnerability Explorer.
 
-
 |===
+
+[NOTE]
+====
+Only users with the System Administrator role can view the Code to Cloud dashboard.
+====
 
 === Next Steps
 
