@@ -21,7 +21,7 @@ Visualize and share the metrics that matter most to you and your team. Learn mor
 |Attack Surface Management
 |Unmanaged internet exposure risk, historical trend, top risks to remediate.
 
-|Command Center
+|xref:dashboards-command-center.adoc[Command Center]
 |Provides you with a unified view of the top cloud security incidents and risks uncovered across the assets monitored by Prisma™ Cloud. It provides security teams with an at a glance picture of the highest priority incidents and risks in your cloud environments.
 
 //Governance & Compliance
@@ -31,7 +31,7 @@ Visualize and share the metrics that matter most to you and your team. Learn mor
 //Provides greater visibility into tracked vulnerabilities in APIs and Workloads, including APIs with security findings and Workloads with untracked blind spots.
 
 |Vulnerabilities
-|Tracks vulnerability impact by stage and remediation trends along with dashboards that we now currently cover under the Vulnerability Explorer.
+|Tracks vulnerability impact by stage and view remediation trends as well as a ranked list of vulnerabilities by severity. Visualizations of how a CVE impacts a vulnerable asset are also included. 
 
 |===
 
@@ -45,3 +45,4 @@ Only users with the System Administrator role can view the Code to Cloud dashboa
 * xref:create-and-manage-dashboards.adoc#createdashboards[Create New Dashboards]
 * xref:create-and-manage-dashboards.adoc#managewidgets[Manage Widgets]
 * xref:create-and-manage-dashboards.adoc#managedashboards[Manage Dashboards]
+* xref:dashboards-command-center.adoc[Explore Command Center Dashboard]
