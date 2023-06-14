@@ -1,0 +1,26 @@
+== Vulnerabilities Dashboard
+
+The Vulnerabilities Dashboard helps you identify the highest priority risks found in the images, hosts and functions, helping you protect your runtime applications against security threats. Highlighting the most critical vulnerabilities helps you plan and take the necessary remediation steps to mitigate the risk and secure your environment. The following three visualizations are available to help you contextualize risk:
+
+* Vulnerabilities Overview
+* Prioritized Vulnerabilities
+* Top Impacting Vulnerabilities
+* Vulnerability Impact by Stage
+
+=== Vulnerabilities Visualizations
+
+Learn more about invidual vulnearlities widgets and the available interactions in the table below:
+
+[cols="30%a,70%a"]
+|===
+
+|*Vulnerabilities Overview*
+|Provides a summary view of the Total Vulnerabilities in your environment further divided into Vulnerabilities by Asset and Vulnerabilities that have already been remediated allowing you to track and share your progress in securing your environment.
+
+|*Prioritized Vulnerabilities*
+|
+
+|*Top Impacting Vulnerabilities*
+|Provides a ranked list of the most critical vulnerabilities in your environment based on the risk score. The ranked list consists of CVEs that are affecting the environment. Each CVE includes data about its risk factors, severity, CVSS, risk factors and assets impacted.
+
+|===

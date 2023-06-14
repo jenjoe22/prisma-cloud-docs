@@ -15,7 +15,7 @@ Visualize and share the metrics that matter most to you and your team. Learn mor
 |Code to Cloud
 |TBD
 
-|Application Security
+|xref:dashboards-command-center.adoc[Application Security]
 |Provides greater visibility into repositories, secrets, IaC templates and package licenses with errors. Additional graphs providing a contextual visualization of errors and their associated policies, and vulnerabilities are also included.
 
 |Attack Surface Management
@@ -46,3 +46,4 @@ Only users with the System Administrator role can view the Code to Cloud dashboa
 * xref:create-and-manage-dashboards.adoc#managewidgets[Manage Widgets]
 * xref:create-and-manage-dashboards.adoc#managedashboards[Manage Dashboards]
 * xref:dashboards-command-center.adoc[Explore Command Center Dashboard]
+* xref:dashboards-application-security.adoc[Explore Application Security Dashboard]

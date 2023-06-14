@@ -1,7 +1,7 @@
 
 == Application Security Dashboard
 
-The Application Security dashboard provides you with a centralized view of the top code security vulnerabilities and misconfigurations identified across your connected code integrations on Prisma Cloud. View and analyze contextual visulaizations of high priority errors surfaced in these key vectors:
+The Application Security dashboard provides you with a prioritized view of the top code security vulnerabilities and misconfigurations identified across your connected code integrations on Prisma Cloud. View and analyze contextual visualizations of high priority errors surfaced in these key vectors:
 
 * Total Repositories by Error Severity
 * Error Burndown Chart
@@ -13,17 +13,10 @@ The Application Security dashboard provides you with a centralized view of the t
 
 Navigate to *Dashboards > Application Security* to view and manage the dashboard. The dashboard is only available if you have subscribed to Code Security on Prisma Cloud. 
 
-=== Total Errors
-
-The *Total Errors* bar provides a summary of code errors classified by  Critical, High, Medium, Low and Info error severity.
-View custom results for all Application Security errors using filters to narrow your investigation into a specific *Repository, Code Category* or *Severity*. Select multiple repositories, code categories and severity at once to find critical errors that may need immediate remediation. Filtering the data updates all visualizations on the dashboard. Reset the filters to revert back to default filter settings.
-
-Select the number corresponding to a severity to view contextual results for code errors by severity. Results are displayed  on the *Code Security > Projects > Overview* page. You can also execute remedial actions if necessary on the  *Projects* page.
-
 
 === Code Errors Visualizations
 
-The code errors are actionable and are grouped in these areas:
+The table below lists all the available code visualizations:
 
 [cols="30%a,70%a"]
 |===
@@ -51,3 +44,12 @@ Code Issues over time: Visualizes the trendline of code errors from the last 30 
 |TBD
 
 |===
+
+
+=== Total Errors
+
+The *Total Errors* bar provides a summary of code errors classified by  Critical, High, Medium, Low and Info error severity.
+View custom results for all Application Security errors using filters to narrow your investigation into a specific *Repository, Code Category* or *Severity*. Select multiple repositories, code categories and severity at once to find critical errors that may need immediate remediation. Filtering the data updates all visualizations on the dashboard. Reset the filters to revert back to default filter settings.
+
+Select the number corresponding to a severity to view contextual results for code errors by severity. Results are displayed  on the *Code Security > Projects > Overview* page. You can also execute remedial actions if necessary on the  *Projects* page.
+
