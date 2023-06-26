@@ -1,6 +1,6 @@
 == Vulnerabilities Dashboard
 
-The Vulnerabilities Dashboard helps you identify the highest priority risks found in the images, hosts and functions, helping you protect your runtime applications against security threats. Highlighting the most critical vulnerabilities helps you plan and take the necessary remediation steps to mitigate the risk and secure your environment. The following four visualizations are available to help you contextualize risk:
+The *Vulnerabilities Dashboard* helps you identify the highest priority risks found in the images, hosts and functions, helping you protect your runtime applications against security threats. Highlighting the most critical vulnerabilities helps you plan and take the necessary remediation steps to mitigate risk and secure your environment. The following four visualizations are available to help you contextualize risk:
 
 * Vulnerabilities Overview
 * Prioritized Vulnerabilities
