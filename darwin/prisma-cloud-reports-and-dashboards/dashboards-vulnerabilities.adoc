@@ -18,12 +18,12 @@ Learn more about invidual vulnerabilities widgets and the available interactions
 |Provides a summary view of the Total Vulnerabilities in your environment further divided into Vulnerabilities by Asset and Vulnerabilities that have already been remediated allowing you to track and share your progress in securing your environment.
 
 |*Prioritized Vulnerabilities*
-|
+|TBD
 
 |*Top Impacting Vulnerabilities*
 |Provides a ranked list of the most critical vulnerabilities in your environment based on the risk score. The ranked list consists of CVEs that are affecting the environment. Each CVE includes data about its risk factors, severity, CVSS, risk factors and assets impacted.
 
 |*Vulnerability Impact by Stage*
-|
+|TBD
 
 |===
