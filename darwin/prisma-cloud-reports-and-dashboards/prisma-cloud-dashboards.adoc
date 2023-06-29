@@ -9,15 +9,15 @@ Visualize and share the metrics that matter most to you and your team. Learn mor
 [cols="30%a,70%a"]
 |===
 
-2+| image::cs-button.png[scale=30]  
+2+| image::cs-button.png[scale=50]  
 |*Dashboard*
 |*Description*
 
-|Code to Cloud
-|TBD
+|xref::dashboards-code-to-cloud.adoc[Code to Cloud]
+|Prisma Cloud’s Code to Cloud Dashboard provides a real-time snapshot view into the security posture of your cloud environment. Gain greater visibility into the top risks and incidents in your cloud environment and dive deeper to see the full context of what teams are responsible for these at-risk resources.  
 
 |Attack Surface Management
-|Unmanaged internet exposure risk, historical trend, top risks to remediate.
+|Enables you to discover unmanaged and internet exposed assets that increase your attack surface. Accurately identify the full extent of your organization's cloud presence and start monitoring it on Prisma Cloud.
 
 |xref:dashboards-command-center.adoc[Command Center]
 |Provides you with a unified view of the top cloud security incidents and risks uncovered across the assets monitored by Prisma™ Cloud. It provides security teams with an at a glance picture of the highest priority incidents and risks in your cloud environments.
@@ -28,15 +28,15 @@ Visualize and share the metrics that matter most to you and your team. Learn mor
 //WaaS
 //Provides greater visibility into tracked vulnerabilities in APIs and Workloads, including APIs with security findings and Workloads with untracked blind spots.
 
-2+| image::as-button.png[scale=30]  
+2+| image::rs-button.png[scale=50]  
 |*Dashboard*
 |*Description*
 
 
-|Vulnerabilities
+|xref:dashboards-vulnerabilities.adoc[Vulnerabilities]
 |Tracks vulnerability impact by stage and provides remediation trends as well as a ranked list of vulnerabilities by severity. Visualizations of how a CVE impacts a vulnerable asset are also included. 
 
-2+| image::rs-button.png[scale=30] 
+2+| image::as-button.png[scale=50] 
 |*Dashboard*
 |*Description*
 
@@ -44,9 +44,7 @@ Visualize and share the metrics that matter most to you and your team. Learn mor
 |Provides greater visibility into repositories, secrets, IaC templates and package licenses with errors. Additional graphs providing a contextual visualization of errors and their associated policies, and vulnerabilities are also included.
 
 |Radar
-|Radar helps you visualize and navigate through all the data across Prisma Cloud. For example, On the Radar canvas, you can visualize the connectivity between microservices, instantly drill into the per-layer vulnerability analysis tool, assess compliance, and investigate the incidents.
-
-Radar enables you to identify and block known and unknown traffic moving laterally through your environment.
+|Radar enables you to identify and block known and unknown traffic moving laterally through your environment.
 This default view is available when you switch to the Runtime workflow on the console. 
 
 |===
