@@ -2,40 +2,41 @@
 
 Prisma Cloud’s Code to Cloud Dashboard provides a real-time snapshot view into the security posture of your cloud environment. Quickly get answers to questions such as:
 
-What are the Top Risks and Incidents in my cloud environment and what business unit is responsible for these at-risk resources?
-How can I track progress in my journey to securing my cloud assets?
-What can I do better to improve my cloud environment’s security posture?
+* What are the Top Risks and Incidents in my cloud environment and what business unit is responsible for these at-risk resources?
+* How can I track progress in my journey to securing my cloud assets?
+* What can I do better to improve my cloud environment’s security posture?
 
-The Code to Cloud Dashboard provides you metrics and data around each of these key questions helping you track and share your progress with your entire security team. Eliminate the need to create multiple saved views across different areas of various products to track your operational progress with Prisma Cloud Dashboards.
+The Code to Cloud Dashboard provides you with metrics and data around each of these key questions helping you track and share your progress with your entire security team. With Prisma Cloud Dashboards, you effectiely eliminate the need to create multiple saved views across different areas of various products to track your operational progress.
 
 === Real Time Event Tracker 
 
-The event tracker allows you to check the pulse of your security posture in real time. The Dashboards Event Tracker provides updates every three seconds tracking changes across key metrics such as: 
+The event tracker allows you to check the pulse of your security posture in real time. The *Dashboards > Code to Cloud > Event Tracker* provides updates every three seconds tracking changes across key metrics such as: 
  
-Threats blocked/prevented
-Alerts remediated/resolved
-Critical alert generated 
-New service discovered
-New workloads discovered
+* Threats blocked/prevented
+* Alerts remediated/resolved
+* Critical alerts generated 
+* New service discovered
+* New workloads discovered
 
 See all Events functionality - Describe and add workflow
 Code to Cloud Inventory 
 
+=== Cloud Inventory
 Code to Cloud Inventory provides a panoramic birds eye view of your entire cloud inventory, helping you understand how well your organization is embracing security best practices across your cloud environment and into the code pipeline. 
 
-=== Code/Build Inventory
+==== Code/Build Inventory
 
 The Code/Build inventory widget surfaces metrics derived from the monitoring and scanning of hundreds of code repositories across 3 repository systems secured by Prisma Cloud scanners IaC/SCA, Secrets, and SAST. Data from devs actively using IDE extensions / interacting with Prisma Clous PR recommendations are also included.
 
 Open Question - Will we be able to click on KPIs like Repositories with Hard Fails configured and investigate further?
 
-=== Deploy Inventory
+==== Deploy Inventory
 
 Use the Deploy Inventory widget to identify at a glance when malicious images are deployed in your development environment. Prisma Cloud monitors 100 Trusted Images across 5 Registries and uses the Image Analysis Sandbox to detect malicious images.
 
 Include recommendation on using Trusted Images feature in Image Analysis Sandbox to whitelist images that are permitted to run in your environment.
 
-=== Runtime Inventory
+==== Runtime Inventory
 
 The Runtime Inventory widget helps you quantify and demonstrate that you are reducing risk and proactively preventing breaches. The Urgent Alerts view shows progress in remediation and the burn down of urgent incidents helping you track and show progress. 
 
