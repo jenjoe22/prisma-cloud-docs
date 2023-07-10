@@ -24,7 +24,7 @@ Follow the steps below to create your customized dashboard:
 [.task]
 === Manage Widgets
 
-After you have added any widget to your dashboard you have multiple options to fine-tune the visualization of the data. Move your cursor to the top middle portion of any widget to re-position it as needed. You can also edit, duplicate or delete graphics in the widget, as described below:
+After you have added any widget to your dashboard you have multiple options to fine-tune the visualization of the data. Move your cursor to the top middle portion of any widget to reposition it as needed. You can also edit, duplicate or delete graphics in the widget, as described below:
 
 [NOTE]
 ====
