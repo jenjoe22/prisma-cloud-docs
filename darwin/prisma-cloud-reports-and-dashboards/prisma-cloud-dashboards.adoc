@@ -45,7 +45,7 @@ Visualize and share the metrics that matter most to you and your team. Learn mor
 
 |Radar
 |Radar enables you to identify and block known and unknown traffic moving laterally through your environment.
-This default view is available when you switch to the Runtime workflow on the console. Navigate to *Runtime > Serverless > Radar* to view and monitor lateral traffic. 
+This default view is available when you switch to the Runtime workflow on the console. Navigate to *Runtime Security > Serverless > Radar* to view and monitor lateral traffic. 
 
 |===
 
