@@ -22,14 +22,15 @@ Code to Cloud Inventory provides a panoramic birds eye view of your entire cloud
 
 The Code/Build inventory widget surfaces metrics derived from the monitoring and scanning of hundreds of code repositories across three repository systems secured by Prisma Cloud scanners IaC/SCA, Secrets, and SAST. Data from devs actively using IDE extensions / interacting with Prisma Clous PR recommendations are also included.
 
-*Question* - Will we be able to click on KPIs like Repositories with Hard Fails configured and investigate further? I think we need more details here on the value we are adding with the trendlines and roll-up of Repos, Repos with Hard Fails etc.
+Select on any metric such as Repositories with Hard Fails Configured to see the associated alert and investigate further.
+
+*Question* - I think we need more details here on the value we are adding with the trendlines and roll-up of Repos, Repos with Hard Fails etc.
 
 ==== Deploy Inventory
 
-Use the Deploy Inventory widget to identify at a glance when malicious images are deployed in your development environment. 
+Use the Deploy Inventory widget to identify at a glance when images are deployed in your development environment. 
 
-Runtime defense is the set of features that provide predictive protection for containers and threat based active protection for running containers, hosts and serverless functions.
-Predictive protection includes capabilities like determining when a container runs a process not included in the origin image or creates an unexpected network socket.
+Runtime defense is the set of features that provide predictive protection for containers and threat based active protection for running containers, hosts and serverless functions. Predictive protection includes capabilities like determining when a container runs a process not included in the origin image or creates an unexpected network socket.
 Threat based protection includes capabilities like detecting when malware is added to a workload or when a workload connects to a botnet.
 
 *Question* - Should we describe each metric tracked here and the value it adds such as the following for Trusted Images?
@@ -38,14 +39,20 @@ Use Trusted Images to declare, by policy, which registries, repositories, and im
 
 ==== Runtime Inventory
 
-The Runtime Inventory widget helps you quantify and demonstrate that you are reducing risk and proactively preventing breaches. The Urgent Alerts view shows progress in remediation and the burn down of urgent incidents helping you track and show progress. 
+The Runtime Inventory widget helps you quantify and demonstrate that you are reducing risk and proactively preventing breaches. The Urgent Alerts view shows cloud providers, cloud assets, and percentage of workloads protected. Review the trendline to track your team's progress in the remediation and the burn down of urgent incidents.
 
 *Question* - Should we offer a recommendation here? For instance, "Ensure that a minnimum of 50% of your Workload is protected by agents to proactively mitigate risk."
 
-=== Top Issues by Business Unit
+=== Top Issues - Team View
 
-You also have the option to segment your top security risks by Applications or Account owner to further track and monitor critical vulnerabilities and exposures. 
+You also have the option to define your applications or teams and assign owners to resolve the identified risks. 
 
-Provide breakdown of Total Environment Rollup and visualizations by BU available OOTB. 
+Select *Create Business Unit* to create your own custom allocation of account and application owners to obtain more granular results on risks by individual stakeholders. 
 
-The Create Business Unit button allows you to create your own custom allocation of account and application owners to obtain more granular results on risks by individual stakeholders. 
+*Add flow when available to test*
+
+*Question* - Are any BUs available OOTB?
+
+
+
+
