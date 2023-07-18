@@ -1,6 +1,6 @@
 == Create and Manage Dashboards
 
-Track, visualize, share the metrics that matter most to you and your team with Prisma Cloud custom dashboards. Add widgets with visual representations in various formats such as line and bar graphs and pie charts are available to track key metrics such as assets with the most urgent alerts and vulnerabilities, resource compliance trend charts and top risks to remediate. Share custom dashboards with your management team to quantify your progress in firming up your security posture. 
+Track, visualize, share the metrics that matter most to you and your team with Prisma Cloud custom dashboards. Add widgets with visual representations in various formats such as line and bar graphs and pie charts are available to track key metrics such as assets with the most urgent alerts and vulnerabilities, resource compliance trend charts and top risks to remediate. Share dashboard visualizations with your management team to quantify your progress in firming up your security posture. 
 
 [.task]
 [#createdashboards]

@@ -9,7 +9,7 @@ Prisma Cloud Reports help you capture and share key metrics that track your prog
 [#compliance]
 === Compliance Reports
 
-Generate Prisma Cloud compliance reports, to evaluate how well your cloud environments meets select compliance standards. Create reports to run immediately for online viewing or download, or schedule recurring reports so you can monitor progress of your cloud compliance over time. You have two options to generate and view compliance reports within Prisma Cloud. Generate a report from the Reports section as described below or from the Compliance tab *\\Xref to Compliance > Reports section when complete*. 
+Generate Prisma Cloud compliance reports, to evaluate how well your cloud environments meets select compliance standards. Create reports to run immediately for online viewing or download, or schedule recurring reports so you can monitor progress of your cloud compliance over time. You have two options to generate and view compliance reports within Prisma Cloud. Generate a report from the *Reports* as described below or from the Compliance tab *\\Xref to Compliance > Reports section when complete*. 
 
 [.task]
 ==== Create a Report
